@@ -1,7 +1,7 @@
 # Mantis - Database Operating Environment
 
 The code for Mantis has been granted to the Apache Software Foundation
-and imported in Apache Jena (directory jena-db/).
+and imported into Apache Jena (directory jena-db/).
 
 A record of imported code is available in branch 'jena-db'.
 
